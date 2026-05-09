@@ -11,9 +11,9 @@
 
 ## 🎥 Demo Video
 
-Laptop_view:- https://drive.google.com/file/d/1psZHfE19az1a_lFTX6st6YclNbZhLF1H/view?usp=sharing
+Laptop_view:- https://drive.google.com/file/d/1j-fG3erqwnJQ6r3XrNChU_vIk7_qL6mG/view?usp=sharing
 
-Mobile_view:- https://drive.google.com/file/d/12Wj27uwddRRZqUmwNAVjRJO57qW-YFpb/view?usp=sharing
+Mobile_view:- https://drive.google.com/file/d/1TkGs_yvF53pDYEHskdD22zAHZsq6M3bD/view?usp=sharing
 
 # Tech Stack
 
