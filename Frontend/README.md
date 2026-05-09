@@ -11,6 +11,14 @@
 
 ## 🎥 Demo Video
 
-https://drive.google.com/file/d/1psZHfE19az1a_lFTX6st6YclNbZhLF1H/view?usp=sharing
+Laptop_view:- https://drive.google.com/file/d/1psZHfE19az1a_lFTX6st6YclNbZhLF1H/view?usp=sharing
 
-https://drive.google.com/file/d/12Wj27uwddRRZqUmwNAVjRJO57qW-YFpb/view?usp=sharing
+Mobile_view:- https://drive.google.com/file/d/12Wj27uwddRRZqUmwNAVjRJO57qW-YFpb/view?usp=sharing
+
+# Tech Stack
+
+React.js,
+Tailwind CSS,
+Node.js,
+Express.js,
+MongoDB.
