@@ -2,12 +2,12 @@
 
 ## Output Screenshots
 
-![bookStore](./../output/bookstore_1.png)
-![bookStore](./../output/bookstore_2.png)
-![bookStore](./../output/bookstore_3.png)
-![bookStore](./../output/bookstore_4.png)
-![bookStore](./../output/bookstore_5.png)
-![bookStore](./../output/bookstore_6.png)
+![bookStore](./output/bookstore_1.png)
+![bookStore](./output/bookstore_2.png)
+![bookStore](./output/bookstore_3.png)
+![bookStore](./output/bookstore_4.png)
+![bookStore](./output/bookstore_5.png)
+![bookStore](./output/bookstore_6.png)
 
 ## 🎥 Demo Video
 
